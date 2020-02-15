@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569739754504",
+    "firebase_url": "https://unity3drpg.firebaseio.com",
+    "project_id": "unity3drpg",
+    "storage_bucket": "unity3drpg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569739754504:android:3ea489157ae9ebdb",
+        "android_client_info": {
+          "package_name": "com.yumso.classicRPG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569739754504-6nt4kmqkrq914gbu7etqih9freo4ps4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrEfTEKZUVcAnCbG3E2qGh5NN7RuyX3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569739754504-6nt4kmqkrq914gbu7etqih9freo4ps4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
